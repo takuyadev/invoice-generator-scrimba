@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="column center">
+        <h1 class="text-white">Invoice Creator</h1>
+        <p class="text-white subheading">Thanks for choosing GoodCorp, LLC!</p>
+      </header>
+      <div class="padding">
+        <div class="btn-container row space-between margin-bottom">
+          <button class="btn" id="wash-btn">Wash Car: $10</button>
+          <button class="btn" id="mow-btn">Mow Lawn: $20</button>
+          <button class="btn" id="weed-btn">Pull Weeds: $30</button>
+        </div>
+        <div class="row space-between">
+          <p class="label">TASK</p>
+          <p class="label">TOTAL</p>
+        </div>
+        <ul>
+          <li class="row center space-between">
+            <div class="row">
+              <p class="task text-white">Wash Car</p>
+              <button class="remove-btn">Remove</button>
+            </div>
+            <p class="price text-white"><span class="text-accent-1">$</span>10</p>
+          </li>
+          <li class="row center space-between">
+            <div class="row">
+              <p class="task text-white">Wash Car</p>
+              <button class="remove-btn">Remove</button>
+            </div>
+            <p class="price text-white"><span class="text-accent-1">$</span>10</p>
+          </li>
+        </ul>
+        <hr />
+        <div class="row space-between">
+          <p class="label">NOTES</p>
+          <p class="label">TOTAL AMOUNT</p>
+        </div>
+        <div class="row space-between margin-bottom">
+          <p class="text-white">We accept cash, credit card, or Paypal.</p>
+          <p class="total-price text-white">$60</p>
+        </div>
+        <button class="primary-btn">
+          <img src="img/email.png" alt="Email Icon" />Send Invoice
+        </button>
+      </div>
+    </div>
+  </body>
+  <script src="app.js"></script>
+</html>
