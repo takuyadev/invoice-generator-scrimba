@@ -1,5 +1,7 @@
 # Invoice Generator - Scrimba
 
+This project is deployed at the [Link here.](https://takuyadev.github.io/invoice-generator-scrimba/)
+
 ### `Summary`
 
 This project is part of the Solo Project section of the "The Front-End Developer Crash Course", where the student is required to finish the project on their own without extensive help.
