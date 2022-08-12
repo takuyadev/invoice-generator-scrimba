@@ -2,7 +2,7 @@
 
 ### `Summary`
 
-This projeoct is part of the Solo Project section of the "The Front-End Developer Crash Course", where the student is required to finish the project on their own without extensive help.
+This project is part of the Solo Project section of the "The Front-End Developer Crash Course", where the student is required to finish the project on their own without extensive help.
 
 This application allows you to add three many items to the cart and add the item to the invoice, and then post (empty form) the items that were put into the invoice.
 
