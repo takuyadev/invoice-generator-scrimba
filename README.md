@@ -1,6 +1,6 @@
 # Invoice Generator - Scrimba
 
-This project is deployed at the [Link here.](https://takuyadev.github.io/invoice-generator-scrimba/)
+This project is deployed at the [link here.](https://takuyadev.github.io/invoice-generator-scrimba/)
 
 ### `Summary`
 
